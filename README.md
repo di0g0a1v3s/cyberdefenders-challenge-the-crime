@@ -10,7 +10,7 @@ Answer: Olymp Trade
 
 ## 2. According to the testimony of the victim's best friend, he said, "While we were together, my friend got several calls he avoided. He said he owed the caller a lot of money but couldn't repay now". How much does the victim owe this person?
 
-<img width="1573" alt="Screenshot 2024-04-27 at 16 35 58" src="https://github.com/di0g0a1v3s/cyberdefenders-challenge-the-crime/assets/60743836/7b89d1c3-c4f3-4e05-96b0-2b804ce7eca4">
+![Screenshot 2024-04-27 at 16 43 19](https://github.com/di0g0a1v3s/cyberdefenders-challenge-the-crime/assets/60743836/14952e04-5c3a-4ed9-8ef8-fcbea855ce36)
 
 Answer: 250000
 

@@ -1,51 +1,41 @@
 # Resolution of 'The Crime' Cyberdefenders Challenge
 
-### The challenge is available at https://cyberdefenders.org/blueteam-ctf-challenges/lgdroid/
+### The challenge is available at https://cyberdefenders.org/blueteam-ctf-challenges/the-crime/
 
-## 1. What is the email address of Zoe Washburne?
+## 1. Based on the accounts of the witnesses and individuals close to the victim, it has become clear that the victim was interested in trading. This has led him to invest all of his money and acquire debt. Can you identify which trading application the victim primarily used on his phone?
 
-![Screenshot 2024-04-28 at 01 13 28](https://github.com/di0g0a1v3s/cyberdefenders-challenge-the-crime/assets/60743836/23a14cba-bceb-48ca-a57d-207ed15809f6)
+<img width="637" alt="Screenshot 2024-04-27 at 15 30 09" src="https://github.com/di0g0a1v3s/cyberdefenders-challenge-the-crime/assets/60743836/c4b7a87e-fa8f-4b51-8a44-4c4e5827f793">
 
-Answer: zoewash@0x42.null
+Answer: Olymp Trade
 
-## 2. What was the device time in UTC at the time of acquisition? (hh:mm:ss)
+## 2. According to the testimony of the victim's best friend, he said, "While we were together, my friend got several calls he avoided. He said he owed the caller a lot of money but couldn't repay now". How much does the victim owe this person?
 
-<img width="915" alt="Screenshot 2024-04-28 at 01 15 40" src="https://github.com/di0g0a1v3s/cyberdefenders-challenge-the-crime/assets/60743836/e81c36ba-0e34-4676-8c47-3977218f1e05">
+![Screenshot 2024-04-27 at 16 43 19](https://github.com/di0g0a1v3s/cyberdefenders-challenge-the-crime/assets/60743836/14952e04-5c3a-4ed9-8ef8-fcbea855ce36)
 
-Answer: 18:17:56
+Answer: 250000
 
-## 3. What time was Tor Browser downloaded in UTC? (hh:mm:ss)
+## 3. What is the name of the person to whom the victim owes money?
 
-<img width="1645" alt="Screenshot 2024-04-28 at 11 12 15" src="https://github.com/di0g0a1v3s/cyberdefenders-challenge-the-crime/assets/60743836/45218baf-c894-4240-8bf7-f45037b8be37">
+<img width="1613" alt="Screenshot 2024-04-27 at 16 35 06" src="https://github.com/di0g0a1v3s/cyberdefenders-challenge-the-crime/assets/60743836/310ab4ca-aa49-422b-9fd7-23c96a646e66">
 
-Answer: 19:42:26
+Answer: Shady Wahab
 
-## 4. What time did the phone charge to 100% after the last reset? (hh:mm:ss)
+## 4. Based on the statement from the victim's family, they said that on September 20, 2023, he departed from his residence without informing anyone of his destination. Where was the victim located at that moment?
 
-<img width="1413" alt="Screenshot 2024-04-28 at 11 43 41" src="https://github.com/di0g0a1v3s/cyberdefenders-challenge-the-crime/assets/60743836/e6fb0211-347a-4bcd-a9bf-2a7794a9973e">
+<img width="1319" alt="Screenshot 2024-04-27 at 16 07 06" src="https://github.com/di0g0a1v3s/cyberdefenders-challenge-the-crime/assets/60743836/3ea65c9c-f2c9-4fe9-9bdd-69c77bbad7ea">
 
-Answer: 13:17:20
+Answer: The Nile Ritz-Carlton
 
-## 5. What is the password for the most recently connected WIFI access point?
 
-<img width="1511" alt="Screenshot 2024-04-28 at 11 22 15" src="https://github.com/di0g0a1v3s/cyberdefenders-challenge-the-crime/assets/60743836/efbaef03-8bd9-4934-9347-d7b550c46d22">
+## 5. The detective continued his investigation by questioning the hotel lobby. She informed him that the victim had reserved the room for 10 days and had a flight scheduled thereafter. The investigator believes that the victim may have stored his ticket information on his phone. Look for where the victim intended to travel.
 
-Answer: ThinkingForest!
+<img width="1660" alt="Screenshot 2024-04-27 at 16 02 36" src="https://github.com/di0g0a1v3s/cyberdefenders-challenge-the-crime/assets/60743836/98e23a51-78ce-49ce-afad-39a5cfdebedd">
 
-## 6. What app was the user focused on at 2021-05-20 14:13:27?
+Answer: Las Vegas
 
-<img width="1511" alt="Screenshot 2024-04-28 at 11 32 08" src="https://github.com/di0g0a1v3s/cyberdefenders-challenge-the-crime/assets/60743836/dbcad9fd-5310-44d4-854a-776c94f40189">
 
-Answer: youtube
+## 6. After examining the victim's Discord conversations, we discovered he had arranged to meet a friend at a specific location. Can you determine where this meeting was supposed to occur?
 
-## 7. How much time did the suspect watch Youtube on 2021-05-20? (hh:mm:ss)
+<img width="1537" alt="Screenshot 2024-04-27 at 16 00 55" src="https://github.com/di0g0a1v3s/cyberdefenders-challenge-the-crime/assets/60743836/b6c51cf9-84d7-459f-b339-df4281ffd7f9">
 
-<img width="1513" alt="Screenshot 2024-04-28 at 12 28 06" src="https://github.com/di0g0a1v3s/cyberdefenders-challenge-the-crime/assets/60743836/7380555d-3d12-4afb-b050-042b0bdfc888">
-
-Answer: 08:34:30
-
-## 8. "suspicious.jpg: What is the structural similarity metric for this image compared to a visually similar image taken with the mobile phone? (#.##).
-
-<img width="1259" alt="Screenshot 2024-04-28 at 12 19 43" src="https://github.com/di0g0a1v3s/cyberdefenders-challenge-the-crime/assets/60743836/fe85d951-eb03-492b-856d-01720380a54d">
-
-Answer: 0.99
+Answer: The Mob Museum
